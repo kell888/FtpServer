@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\bin\Debug\FtpServer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\bin\Debug\FtpServer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\obj\x86\Debug\FtpServer.FtpServerForm.resources
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\obj\x86\Debug\FtpServer.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\obj\x86\Debug\FtpServer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\obj\x86\Debug\FtpServer.pdb
+F:\FtpServer\FtpServer\obj\x86\Debug\FtpServer.exe
+F:\FtpServer\FtpServer\obj\x86\Debug\FtpServer.pdb
+F:\FtpServer\FtpServer\bin\Debug\FtpServer.exe
+F:\FtpServer\FtpServer\bin\Debug\FtpServer.pdb
+F:\FtpServer\FtpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\FtpServer\FtpServer\obj\x86\Debug\FtpServer.FtpServerForm.resources
+F:\FtpServer\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+F:\FtpServer\FtpServer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\FtpServer\FtpServer\obj\x86\Debug\GenerateResource.write.1.tlog
